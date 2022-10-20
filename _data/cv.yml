@@ -4,29 +4,35 @@
     - name: Full Name
       value: Satvik Gupta
     - name: Date of Birth
-      value: 08th May 2001
+      value: 8th May 2001
     - name: Languages
       value: English, Hindi
 
 - title: Education
   type: time_table
   contents:
-    - title: B.E.
-      institution: Thapar Institute of Engineering & Technology
-      year: 2023 (expected)
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Bachelor of Engineering (B.E.)
+      institution: Thapar Institute of Engineering & Technology, Patiala, India
+      year: 2023
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
+    - title: CBSE, All India Senior School Certificate Examination (Grade XII)
+      institution: Army Public School, Dhaula Kuan
+      year: 2019
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+    - title: CBSE, All India Secondary School Examination (Grade X)
+      institution: Army Public School, Dhaula Kuan
+      year: 2017
+      # description:
+      #   - Description 1.
+      #   - Description 2.
 
 - title: Experience
   type: time_table
