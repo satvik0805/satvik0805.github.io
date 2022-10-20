@@ -2,24 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Mechanical Undergraduate & Roboticist 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Located in New Delhi, India</p>
+    <p>Studying in Patiala, India</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-satvik gupta i am
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a goal-oriented, determined, hard-working Junior Undergraduate at Thapar Institute of Engineering & Technology, Patiala, India, pursuing my bachelor's in Mechanical Engineering. Equipped with technical, analytical, and leadership skills, I'm deeply interested in the field of Robotics and Automation with a demonstrated history in Computer-Aided Design, Control Systems, Rapid Prototyping, and Manufacturing. I believe in learning by doing things. My goal is to take my skills and channel them into a career where I can join my fellow researchers, innovators, engineers to make robots (of any type/any kind) accessible to all by inventing unique solutions for real-world problems. I believe my skills, creativity, and enthusiasm for the field will be assets to any team I join.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
