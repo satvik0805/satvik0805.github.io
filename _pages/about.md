@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Mechanical Undergraduate & Roboticist 
+subtitle: Mechanical Undergraduate & Roboticist
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Located in New Delhi, India</p>
+    <p>Located in New Delhi</p>
     <p>Studying in Patiala, India</p>
 
 news: true  # includes a list of news items
