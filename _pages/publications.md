@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: coming soon!
-years: []
+years: [1950]
 nav: true
 nav_order: 1
 ---
