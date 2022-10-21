@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: Engineers without Borders
+description: National University of Singapore
+img: assets/img/ewb-nus-logo.jpg
+importance: 1
+category: volunteering
 ---
 
 Every project has a beautiful feature showcase page.

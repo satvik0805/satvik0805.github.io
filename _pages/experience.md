@@ -2,10 +2,10 @@
 layout: page
 title: experience
 permalink: /experience/
-description: A growing collection of your cool projects.
+description: An insight into the professional experience i have had in the past few years.
 nav: true
 nav_order: 2
-display_categories: [research, industry]
+display_categories: [research & industry, extracurricular, volunteering]
 horizontal: false
 ---
 

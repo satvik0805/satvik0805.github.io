@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
-importance: 2
-category: work
+title: megic
+description: Yong Loo Lin School of Medicine, National University of Singapore
+img: assets/img/megic-logo.jpg
+importance: 1
+category: extracurricular
 ---
 
 Every project has a beautiful feature showcase page.

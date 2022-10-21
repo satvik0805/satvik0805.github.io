@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: mechatronics laboratory, tiet
+description: Thapar Institute of Engineering & Technology
+img: assets/img/thapar-logo.jpg
+redirect: https://unsplash.com
+importance: 2
+category: research & industry
 ---
 
 Every project has a beautiful feature showcase page.

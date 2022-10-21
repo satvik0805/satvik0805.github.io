@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: GirlUp Thapar chapter
+description: Thapar Institute of Engineering & Technology
+img: assets/img/girlup-logo.jpg
+importance: 4
+category: volunteering
 ---
 
 Every project has a beautiful feature showcase page.
