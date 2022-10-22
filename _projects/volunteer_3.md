@@ -1,8 +1,8 @@
 ---
 layout: page
-title: TEDxTIET
+title: Rotaract Club of Thapar
 description: Thapar Institute of Engineering & Technology
-img: assets/img/tedxw-logo.jpg
+img: assets/img/rotaract-logo.jpg
 importance: 3
 category: volunteering
 ---
