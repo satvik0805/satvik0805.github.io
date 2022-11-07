@@ -1,7 +1,7 @@
 ---
 layout: page
 title: mangonel project
-description:
+description: Engineering Design Project I
 img: assets/img/.jpg
 redirect:
 importance: 4
