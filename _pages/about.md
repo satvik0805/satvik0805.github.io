@@ -4,6 +4,8 @@ title: about
 permalink: /
 subtitle: Mechanical Undergraduate & Roboticist
 
+image: prof_pic.jpg
+
 profile:
   align: right
   image: prof_pic.jpg
@@ -11,6 +13,7 @@ profile:
   address: >
     <p>Located in New Delhi</p>
     <p>Studying in Patiala, India</p>
+
 
 news: true  # includes a list of news items
 research interests: true
