@@ -1,7 +1,7 @@
 ---
 layout: page
 title: buggy project
-description:
+description: Engineering Design Project II
 img: assets/img/.jpg
 redirect:
 importance: 3
