@@ -26,5 +26,6 @@ Head start to a career in robotics.
 
 > Associated project with this competition includes the follow <a href="{{ page.redirect_to }}">rc boat racing</a>
 
-and pictures if available
-embed certificate here
+<div class="col-sm mt-3 mt-md-0">
+    {% include figure.html path="assets/img/hobby_projects/cert_roboknights.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+</div>
