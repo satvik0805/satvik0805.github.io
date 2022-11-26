@@ -3,9 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: Mechanical Undergraduate & Roboticist
-
 image: prof_pic.jpg
-
 profile:
   align: right
   image: prof_pic.jpg
