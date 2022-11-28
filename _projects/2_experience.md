@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Larsen & Toubro Ltd.
-description: IoT enabled welding stations
+description: Summer project intern at the Large equipment manufacturing facility, HZMC.
 img: assets/img/lt-logo.jpg
 importance: 3
 category: research & industry
@@ -30,7 +30,6 @@ L&T Defence Unit at Hazira also manufactures Underwater Platforms, Bridging Syst
         {% include figure.html path="assets/img/intern-lt-1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-5 mt-3 mt-md-0">
-        my name is satvik and i am an entreprenuer
     </div>
 
     <div class="col-sm-5 mt-3 mt-md-0">
