@@ -1,7 +1,7 @@
 ---
 layout: page
 title: International RoboCup Junior
-description: Represented India at the RoboCup Junior held in Leipzig, Germany in 2016.
+description: Represented India at the International RoboCup Junior held in Leipzig, Germany in 2016.
 img: assets/img/robocup-logo.jpg
 importance: 3
 category: extracurricular

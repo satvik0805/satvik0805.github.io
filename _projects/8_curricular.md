@@ -1,7 +1,7 @@
 ---
 layout: page
 title: dps roboknights
-description: Inter School Robotics Symposium, New Delhi
+description: Winner, Inter-School Robotics Symposium, New Delhi
 img: assets/img/dps-logo.jpg
 importance: 5
 category: extracurricular
