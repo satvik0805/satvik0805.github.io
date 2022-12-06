@@ -1,7 +1,7 @@
 ---
 layout: page
 title: advanced rescue line robot
-description: International RoboCup Junior, Germany 2016.
+description: Advanced rescue line robot using LEGO Ev3 framework, built to take part in International RoboCup, Germany. 
 img: assets/img/hobby_projects/rcj_internationals.jpg
 redirect:
 importance: 3
@@ -29,12 +29,4 @@ This rescue robot was designed to compete in the International RoboCup Junior he
 </div>
 <div class="caption">
     Robot built on the LEGO Ev3 platform, robot while performing the tasks during the competition in Germany.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/hobby_projects/robocup_newsp.jpg" title="" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-  Comfort with Technology.
 </div>

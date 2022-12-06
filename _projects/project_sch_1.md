@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: quadcopter
 description:
@@ -26,4 +26,4 @@ category: hobby
     </div>
 </div>
 
-A project which I undertook in my senior secondary school. Someone asked me to build a drone that could take pictures from above during the annual sports festival. This idea was where it all started, even though I couldn't add a camera to the quadcopter in the first phase of the project. But I was successful in making a quadcopter, learning and building a quadcopter from scratch using all the available online resources. Further, I plan to make the drone a completely autonomous one capable of solving real-world problems soon.
+A project which I undertook in my senior secondary school. Someone asked me to build a drone that could take pictures from above during the annual sports festival. This idea was where it all started, even though I couldn't add a camera to the quadcopter in the first phase of the project. But I was successful in making a quadcopter, learning and building a quadcopter from scratch using all the available online resources. Further, I plan to make the drone a completely autonomous one capable of solving real-world problems soon. -->

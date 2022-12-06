@@ -1,8 +1,8 @@
 ---
 layout: page
-title: machine learning
-description: Research Project
-img: assets/img/ml-project.jpg
+title: ML analysis of 3D printed parts
+description: Research project on the analysis of 3D printed test specimens using Machine Learning approach.
+img: assets/img/thapar_projects/ml_2.jpg
 redirect:
 importance: 5
 category: research & development
@@ -28,10 +28,7 @@ category: research & development
         {% include figure.html path="assets/img/thapar_projects/ml_3.jpg" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+An ongoing research project in the Department of Mechanical Engineering under the guidance of Dr. Vishal Gupta with his Additive Manufacturing research group.
+
+The primary of this research project is to analyze the mechanical properties of the 3D printed ABS/PLA based parts. The prediction of properties is being done using Machine Learning algorithms using the data as recorded in the test specimen.

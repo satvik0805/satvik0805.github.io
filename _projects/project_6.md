@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nurse Assist Mobile Robot
-description: Research Assistant
+description: Joined the group as a research assistant, worked on the design of various parts and control of the robot. 
 img: assets/img/nurse-thapar.jpg
 redirect:
 importance: 6

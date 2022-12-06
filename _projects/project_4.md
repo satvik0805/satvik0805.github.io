@@ -1,7 +1,7 @@
 ---
 layout: page
 title: pocdoc application
-description: Eye Doctor in Pocket
+description: Eye Doctor in Pocket - Designed an innovative solution to solve the problem of eye screening at homes. 
 img: assets/img/pocdoc.jpg
 redirect:
 importance: 4

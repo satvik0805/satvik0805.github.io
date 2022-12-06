@@ -9,6 +9,12 @@ redirect_to: /projects/project_2/
 redirect_to2: /projects/project_3/
 ---
 
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0">
+  {% include figure.html path="assets/img/nus_intern/research_group.jpeg" title="" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+
     About: Advanced Robotics Centre, NUS, Singapore
 
 *The Advanced Robotics Centre (ARC) was established in 2013 with support from both NUS Engineering and NUS Computing.*
@@ -30,3 +36,12 @@ Click here to view the internship completion letter.
 >To view the projects, click on the following links:
 >1. <a href="{{ page.redirect_to }}">Autonomous Omnidirectional Mobile Robot.</a>
 >2. <a href="{{ page.redirect_to2 }}">Automated Eye Kiosk Machine.</a>
+
+<div class="row">
+  <div class="col-sm-6 mt-3 mt-md-0">
+  {% include figure.html path="assets/img/prof_pic3.jpeg" title="" class="img-fluid rounded z-depth-1" %}
+  <div class="caption">
+    With Prof. Ang in his lab at the Advanced Robotics Centre, NUS.
+  </div>
+  </div>
+</div>

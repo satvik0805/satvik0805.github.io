@@ -1,7 +1,7 @@
 ---
 layout: page
 title: honda engine design drive mechanism
-description:
+description: Design of drive mechanism and support frame for assembly of force pump driven by HONDA GX160 Engine
 img: assets/img/honda_drive.jpg
 redirect:
 importance: 1
@@ -23,9 +23,6 @@ category: academic
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/acad_projects/drive_2.jpg" title="" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
 
 Design of Drive Mechanism and Support Frame for assembly of Force Pump driven by HONDA GX160 Engine

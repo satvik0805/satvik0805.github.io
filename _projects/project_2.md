@@ -1,7 +1,7 @@
 ---
 layout: page
 title: omni-directional mobile robot
-description: Project Intern NUS
+description: Worked on the development of autonomous omni-directional mobile robot for consumer-based applications.
 img: assets/img/omni-directional.jpg
 redirect:
 importance: 2
