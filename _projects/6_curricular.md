@@ -5,7 +5,7 @@ description: Represented India at the International RoboCup Junior held in Leipz
 img: assets/img/robocup-logo.jpg
 importance: 3
 category: extracurricular
-redirect_to:  /projects/project_hobby_2/
+redirect_to:  /projects/project_sch_2/
 ---
 
 RoboCup is an international scientific initiative with the goal to advance the state of the art of intelligent robots. When established in 1997, the original mission was to field a team of robots capable of winning against the human soccer World Cup champions by 2050.
@@ -16,6 +16,9 @@ The robot must be strong and smart enough to navigate through a treacherous terr
 
 The Rescue Line sub-league is open to students from age 14 up to 19 years of age.
 An autonomous robot should follow a black line while overcoming different problems in a modular arena formed by tiles with different patterns. The floor is white in color, and the tiles are on different levels connected with ramps.
+
+><a href="{{ page.redirect_to }}">Click here,</a> to view the project associated with this competition.  
+
 
 <div class="row">
     <div class="col-sm-12 mt-3 mt-md-0">
@@ -29,7 +32,3 @@ An autonomous robot should follow a black line while overcoming different proble
   Top: Featured in the student edition of the largest selling English-language daily in the world.
   Bottom: Certificate of participation at the International RCJ Germany, 2016.
 </div>
-
-
-
-> To view the project associated with this competition, <a href="{{ page.redirect_to }}">click here.</a>

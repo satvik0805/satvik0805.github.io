@@ -5,7 +5,7 @@ description: Won the Runners-up  trophy both in North Zone India and All India N
 img: assets/img/indian-robocup.jpg
 importance: 4
 category: extracurricular
-redirect_to:  /projects/project_hobby_5/
+redirect_to:  /projects/project_sch_5/
 text-align: justify;
 ---
 

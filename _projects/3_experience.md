@@ -5,7 +5,7 @@ description: Research assistant in the Systems and Controls research group at Th
 img: assets/img/thapar-logo.jpg
 importance: 2
 category: research & industry
-redirect_to:  /projects/project_hobby_2/
+redirect_to:  /projects/project_sch_2/
 ---
 
 Working as a research assistant in the mechatronics laboratory, Thapar Institute of Engineering & Technology.
