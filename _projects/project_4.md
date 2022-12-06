@@ -22,13 +22,13 @@ Associated project with this competition includes the follow
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.html path="assets/img/nus_intern/pocdoc_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+      {% include figure.html path="assets/img/nus_intern/pocdoc_1.jpg" title="" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/nus_intern/pocdoc_3.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/nus_intern/pocdoc_3.jpeg" title="" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/nus_intern/pocdoc_2.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/nus_intern/pocdoc_2.gif" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -36,7 +36,7 @@ Associated project with this competition includes the follow
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/nus_intern/megic_nus.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/nus_intern/megic_nus.gif" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

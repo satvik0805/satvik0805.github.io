@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Echoes Club
-description: Founder of the official student media club of Thapar Institute. The Student's Panorama of TIET.
+description: Co-founded the official student media club of Thapar Institute. The Student's Panorama of TIET.
 img: assets/img/echoes-logo.jpg
 importance: 2
 category: extracurricular
@@ -14,7 +14,7 @@ category: extracurricular
         Echoes ensures to cross the threshold beyond what our eyes can perceive. There are stories hidden in crevices of the world and often in the palm of our hands. We are a group of young and diverse-minded individuals who hope to amplify everything through media. Along with engaging content, we strive to present fresh and authentic news from across the college. However, we do not stop there and take steps to enlighten our audience with the world’s occurrences as well. We envision touching multiple dimensions of journalism, broadcasting, and media coverage, and we aim to do a lot more than just that.
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/echoes_logo_.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/echoes_logo_.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
