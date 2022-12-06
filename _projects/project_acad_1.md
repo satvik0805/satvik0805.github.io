@@ -2,7 +2,7 @@
 layout: page
 title: honda engine design drive mechanism
 description:
-img: assets/img/.jpg
+img: assets/img/honda_drive.jpg
 redirect:
 importance: 1
 category: academic

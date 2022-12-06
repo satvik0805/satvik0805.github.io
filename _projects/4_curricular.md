@@ -25,13 +25,23 @@ Launched university’s first quarterly official student magazine with a cumulat
 Spearheaded a team of 100+ students to build a platform for the students to preach knowledge and creativity.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/hobby_projects/echoes_ed1.jpg" title="" class="img-fluid rounded z-depth-1" %}
     </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/hobby_projects/echoes_ed2.jpg" title="" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/hobby_projects/echoes_ed3.jpg" title="" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/hobby_projects/echoes_ed4.jpg" title="" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/hobby_projects/echoes_ed5.jpg" title="" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
-<div class="col-sm mt-3 mt-md-0">
-    {% include figure.html path="assets/img/NUS_intern/megic_nus2.gif" title="" class="img-fluid rounded z-depth-1" %}
-</div>
+
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Published edition of Echoes magazine TIET from August'19 to March'22.
 </div>
