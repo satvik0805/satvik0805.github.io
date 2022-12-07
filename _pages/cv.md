@@ -1,10 +1,8 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: /assets/pdf/example_pdf.pdf
 title: cv
-nav: false
+nav: true
 nav_order: 3
 cv_pdf: UME712.pdf
-redirect_to: /assets/pdf/UME712.pdf
-
 ---
