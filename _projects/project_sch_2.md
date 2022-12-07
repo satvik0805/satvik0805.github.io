@@ -1,8 +1,8 @@
 ---
 layout: page
 title: advanced rescue line robot
-description: Advanced rescue line robot using LEGO Ev3 framework, built to take part in International RoboCup, Germany. 
-img: assets/img/hobby_projects/rcj_internationals.jpg
+description: Advanced rescue line robot using LEGO Ev3 framework, built to take part in International RoboCup, Germany.
+img: assets/img/hobby_projects/robocup_arena.jpg
 redirect:
 importance: 3
 category: hobby

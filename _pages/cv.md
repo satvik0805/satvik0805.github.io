@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /assets/pdf/example_pdf.pdf
+permalink: /assets/pdf/CV_satvik.pdf
 title: cv
 nav: true
 nav_order: 3
