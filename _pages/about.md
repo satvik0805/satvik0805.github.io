@@ -12,7 +12,6 @@ profile:
     <p>Located in New Delhi.</p>
     <p>Researching in Patiala, Punjab, India.</p>
 
-
 news: true  # includes a list of news items
 research interests: true
 selected_papers: false # includes a list of papers marked as "selected={true}"
