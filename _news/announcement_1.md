@@ -1,7 +1,7 @@
-<!-- ---
+---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: January 10, 2022
 inline: true
 ---
 
-A simple inline announcement. -->
+Joined <a href="https://arc.nus.edu.sg/">Advanced Robotics Centre </a>, National University of Singapore as a research intern.
