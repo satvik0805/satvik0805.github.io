@@ -1,8 +1,8 @@
 ---
 layout: cv
-permalink: /assets/pdf/CV_satvik.pdf
+permalink: /assets/pdf/Satvik_CV.pdf
 title: cv
 nav: true
 nav_order: 3
-cv_pdf: 
+cv_pdf:
 ---
