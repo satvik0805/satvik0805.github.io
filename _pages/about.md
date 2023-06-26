@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: Mechanical Undergraduate & Roboticist
+subtitle: Mechanical Graduate & Roboticist
 image: prof_pic.jpg
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
+  <!-- address: >
     <p>Researching/studying in Patiala, Punjab.</p>
-    <p>Born/brought up in New Delhi, India.</p>
+    <p>Born/brought up in New Delhi, India.</p> -->
 
 news: true  # includes a list of news items
 research interests: true
@@ -18,7 +18,19 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-As a Senior Undergraduate student at Thapar Institute of Engineering & Technology, Patiala, India, I am majoring in Mechanical Engineering and have been fortunate enough to work in the exciting field of **Robotics & Automation**. Over the past few years, I have been involved in a variety of projects, including the development of autonomous mobile robots, robotic mobile manipulators, application of machine learning and computer vision algorithms on the design and control of various automated/robotic systems. These experiences have allowed me to gain a wealth of knowledge and have fueled my passion for the field.
+Hello, thanks for visiting my portfolio website. I graduated from Thapar Institute of Engineering & Technology, Patiala, India, with a Bachelor's in Mechanical Engineering and have been fortunate enough to work in the exciting field of **Robotics & Automation**. Over the past few years, I have been involved in a variety of projects, including the development of autonomous mobile robots, robotic mobile manipulators, application of machine learning and computer vision algorithms on the design and control of various automated/robotic systems.
+
+My research interests primarily revolve around the convergence of robotics and manufacturing. I am enthusiastic about exploring and advancing the capabilities of collaborative robots to address the challenges faced by humans in factory environments, ultimately making factories more intelligent and efficient in their production processes with the use of cobots.
+
+Apart from my academic pursuits, I have had the opportunity to participate in a noteworthy events and experiences. Back in high school, I had the honor of representing India at the <a href="http://2016.robocup.org/web/index-2.html">International RoboCup Junior</a>, held in **Leipzig, Germany** in 2016.
+
+During my time at Thapar Institute, I have also been actively involved in various academic and research projects, including internships at **Larsen & Toubro, Heavy Engineering Division** and the **National University of Singapore**. I had the privilege of working under the mentorship of<a href="https://cde.nus.edu.sg/me/staff/ang-jr-marcelo-h/"> Prof. Marcelo H Ang</a> in his research group at the <a href="https://arc.nus.edu.sg/">Advanced Robotics Centre</a>, **National Univeristy of Singapore** from January to June 2022.
+
+Moreover, I have also been involved in research projects at Thapar Institute, with  <a href="https://med.thapar.edu/facultydetails/MTE1NQ=="> Prof. T.K. Bera's</a> systems and controls research group, as well as <a href="https://med.thapar.edu/facultydetails/MTE5NQ==">Dr. Vishal Gupta's</a> innovative additive manufacturing team.
+
+
+
+<!-- As a Senior Undergraduate student at Thapar Institute of Engineering & Technology, Patiala, India, I am majoring in Mechanical Engineering and have been fortunate enough to work in the exciting field of **Robotics & Automation**. Over the past few years, I have been involved in a variety of projects, including the development of autonomous mobile robots, robotic mobile manipulators, application of machine learning and computer vision algorithms on the design and control of various automated/robotic systems. These experiences have allowed me to gain a wealth of knowledge and have fueled my passion for the field.
 
 In addition to my academic pursuits, I have also had the opportunity to participate in a number of notable events and experiences. During my high school days, I was selected to represent India at the <a href="http://2016.robocup.org/web/index-2.html">International RoboCup Junior</a>, held in **Leipzig, Germany** in 2016. This was a fantastic opportunity to showcase my skills and learn from some of the best and brightest in the field.
 
@@ -31,8 +43,7 @@ In addition to my internships, I have also been involved in research projects at
 During the Covid-19 pandemic, while staying at home during the lockdown period, I co-founded <a href="https://sites.google.com/thapar.edu/echoestiet/home?authuser=0">Echoes - The Student's Panorama of TIET</a>, the official broadcast media house of Thapar Institute. Through this venture, we produce the official student magazine of the institution, capturing and celebrating university life in all its diverse glamour.
 
 In addition to my academic and professional pursuits, I have also been actively involved in community service activities, striving to give back to my community and make a positive impact.
-
-
+ -->
 
 <!--
 I am a Senior Undergraduate student at Thapar Institute of Engineering & Technology, Patiala, India majoring in Mechanical Engineering and working in the exciting field of **Robotics & Automation**. In the past few years I have worked on multiple projects including development of autonomous mobile robots, robotic mobile manipulators, machine learning, computer vision, and designing & controlling of various automated/robotic systems.
