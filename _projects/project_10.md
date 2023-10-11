@@ -1,8 +1,8 @@
 ---
 layout: page
-title: CAPSTONE
+title: CAPSTONE, t2cefs
 description: Working as a research assistant in the department, responsible for the design, fabrication and control of the robotic mobile manipulator.
-img: assets/img/6dof_thapar.jpg
+img: assets/img/t2cefs.jpg
 redirect: https://sites.google.com/view/a2wr2/home?authuser=0
 importance: 1
 category: research & development

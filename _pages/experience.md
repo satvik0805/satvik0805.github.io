@@ -2,7 +2,7 @@
 layout: page
 title: experience
 permalink: /experience/
-description: An insight into the professional experience i have had in the past few years.
+description: An insight into the research & professional experience i have had in the past few years.
 nav: true
 nav_order: 1
 display_categories: [research & industry, extracurricular]

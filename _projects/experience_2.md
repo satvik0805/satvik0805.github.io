@@ -1,9 +1,9 @@
 ---
 layout: page
-title: mechatronics laboratory, tiet
+title: system & control lab, tiet
 description: Research assistant in the Systems and Controls research group at Thapar Institute.
 img: assets/img/thapar-logo.jpg
-importance: 2
+importance: 3
 category: research & industry
 redirect_to:  /projects/project_1/
 redirect_to2:  /projects/project_6/

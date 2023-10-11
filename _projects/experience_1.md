@@ -3,7 +3,7 @@ layout: page
 title: Larsen & Toubro Ltd.
 description: Summer project intern at the Large equipment manufacturing facility, HZMC.
 img: assets/img/lt-logo.jpg
-importance: 3
+importance: 4
 category: research & industry
 ---
 

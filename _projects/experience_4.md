@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Advanced Robotics Centre, NUS
-description: Robotics research intern at ARC, National University of Singapore from Jan-June 2022.
-img: assets/img/arc-logo.jpg
+title: Robotics Research Centre, NTU
+description: Graduate student 
+img: assets/img/ntu_logo.jpg
 importance: 1
 category: research & industry
 redirect_to: /projects/project_2/
