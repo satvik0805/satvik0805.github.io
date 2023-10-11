@@ -8,9 +8,9 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  <!-- address: >
-    <p>Researching/studying in Patiala, Punjab.</p>
-    <p>Born/brought up in New Delhi, India.</p> -->
+  address:
+    50 Nanyang Crescent,
+    Nanyang Technological University, Singapore
 
 news: true  # includes a list of news items
 research interests: true
@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, thanks for visiting my portfolio website. I graduated from Thapar Institute of Engineering & Technology, Patiala, India, with a Bachelor's in Mechanical Engineering and have been fortunate enough to work in the exciting field of **Robotics & Automation**. Over the past few years, I have been involved in a variety of projects, including the development of autonomous mobile robots, robotic mobile manipulators, application of machine learning and computer vision algorithms on the design and control of various automated/robotic systems.
+Hello, thanks for visiting my portfolio website. I am pursuing a master's degree in Smart Manufacturing with a focus on human-robot collaboration from **NTU, Singapore**. I graduated from Thapar Institute of Engineering & Technology, Patiala, India, with a Bachelor's in Mechanical Engineering and have been fortunate enough to work in the exciting field of **Robotics & Automation**. Over the past few years, I have been involved in a variety of projects, including the development of autonomous mobile robots, robotic mobile manipulators, application of machine learning and computer vision algorithms on the design and control of various automated/robotic systems.
 
 My research interests primarily revolve around the convergence of robotics and manufacturing. I am enthusiastic about exploring and advancing the capabilities of collaborative robots to address the challenges faced by humans in factory environments, ultimately making factories more intelligent and efficient in their production processes with the use of cobots.
 

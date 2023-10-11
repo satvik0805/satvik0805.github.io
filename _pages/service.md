@@ -4,7 +4,7 @@ title: service
 permalink: /service/
 description: An insight into the professional experience i have had in the past few years.
 nav: true
-nav_order: 2
+nav_order: 4
 display_categories: [volunteering]
 horizontal: false
 ---
