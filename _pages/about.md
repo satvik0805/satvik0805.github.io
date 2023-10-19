@@ -18,17 +18,30 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, thanks for visiting my portfolio website. I am pursuing a master's degree in Smart Manufacturing with a focus on human-robot collaboration from **NTU, Singapore**. I graduated from Thapar Institute of Engineering & Technology, Patiala, India, with a Bachelor's in Mechanical Engineering and have been fortunate enough to work in the exciting field of **Robotics & Automation**. Over the past few years, I have been involved in a variety of projects, including the development of autonomous mobile robots, robotic mobile manipulators, application of machine learning and computer vision algorithms on the design and control of various automated/robotic systems.
 
+<p align="justify">
+
+Hello, thanks for visiting my portfolio website.
+
+<br>
+I am a Graduate Student at <strong><a href= "https://www.ntu.edu.sg/"> <b>NTU, Singapore,</b></a></strong> pursuing a master's degree in Smart Manufacturing with a focus on human-robot collaboration. My research work, advised by <strong><b><a href="https://dr.ntu.edu.sg/cris/rp/rp00604">Prof. Domenico Campolo</a></b></strong>, is focused on developing control algorithms for dual-arm manipulation of boxes using the Superquadrics approach.
+
+<br><br>
 My research interests primarily revolve around the convergence of robotics and manufacturing. I am enthusiastic about exploring and advancing the capabilities of collaborative robots to address the challenges faced by humans in factory environments, ultimately making factories more intelligent and efficient in their production processes with the use of cobots.
 
-Apart from my academic pursuits, I have had the opportunity to participate in a noteworthy events and experiences. Back in high school, I had the honor of representing India at the <a href="http://2016.robocup.org/web/index-2.html">International RoboCup Junior</a>, held in **Leipzig, Germany** in 2016.
+<br><br>
+I graduated from Thapar Institute of Engineering & Technology, Patiala, India, with a Bachelor's in Mechanical Engineering and have been working in the field of <strong>Robotics & Automation</strong>. Over the past few years, I have been involved in a variety of projects, including the development of autonomous mobile robots, robotic mobile manipulators, application of machine learning and computer vision algorithms on the design and control of various automated/robotic systems.
 
-During my time at Thapar Institute, I have also been actively involved in various academic and research projects, including internships at **Larsen & Toubro, Heavy Engineering Division** and the **National University of Singapore**. I had the privilege of working under the mentorship of<a href="https://cde.nus.edu.sg/me/staff/ang-jr-marcelo-h/"> Prof. Marcelo H Ang</a> in his research group at the <a href="https://arc.nus.edu.sg/">Advanced Robotics Centre</a>, **National Univeristy of Singapore** from January to June 2022.
+<br><br>
+During my time at Thapar Institute, I have also been actively involved in various academic and research projects, including internships at <strong>L&T, Heavy Engineering Division</strong> and the <strong>National University of Singapore</strong>. I joined as a research intern, advised by<strong><a href="https://cde.nus.edu.sg/me/staff/ang-jr-marcelo-h/"> Prof. Marcelo H. Ang</a></strong> in his research group at the <strong><a href="https://arc.nus.edu.sg/">Advanced Robotics Centre, NUS</a></strong> from January to June 2022.
 
-Moreover, I have also been involved in research projects at Thapar Institute, with  <a href="https://med.thapar.edu/facultydetails/MTE1NQ=="> Prof. T.K. Bera's</a> systems and controls research group, as well as <a href="https://med.thapar.edu/facultydetails/MTE5NQ==">Dr. Vishal Gupta's</a> innovative additive manufacturing team.
+<br><br>
+Apart from my academic pursuits, I have had the opportunity to participate in a noteworthy events and experiences. Back in high school, I had the honor of representing India at the <strong><a href="http://2016.robocup.org/web/index-2.html">International RoboCup Junior</a></strong>, held in <strong>Leipzig, Germany</strong> in 2016.
 
+<!-- <br><br>
+Moreover, I have also been involved in research projects at Thapar Institute, with  <a href="https://med.thapar.edu/facultydetails/MTE1NQ=="> Prof. T.K. Bera's</a> systems and controls research group, as well as <a href="https://med.thapar.edu/facultydetails/MTE5NQ==">Dr. Vishal Gupta's</a> innovative additive manufacturing team. -->
 
+</p>
 
 <!-- As a Senior Undergraduate student at Thapar Institute of Engineering & Technology, Patiala, India, I am majoring in Mechanical Engineering and have been fortunate enough to work in the exciting field of **Robotics & Automation**. Over the past few years, I have been involved in a variety of projects, including the development of autonomous mobile robots, robotic mobile manipulators, application of machine learning and computer vision algorithms on the design and control of various automated/robotic systems. These experiences have allowed me to gain a wealth of knowledge and have fueled my passion for the field.
 
