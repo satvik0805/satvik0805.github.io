@@ -1,7 +1,7 @@
 ---
 layout: page
 title: system & control lab, tiet
-description: Research assistant in the Systems and Controls research group at Thapar Institute.
+description: Research assistant in the Systems and Controls research group, advised by Prof. TK Bera at Thapar Institute.
 img: assets/img/thapar-logo.jpg
 importance: 3
 category: research & industry

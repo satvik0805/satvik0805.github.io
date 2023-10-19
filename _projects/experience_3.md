@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Advanced Robotics Centre, NUS
-description: Robotics research intern at ARC, National University of Singapore from Jan-June 2022.
+description: Robotics research intern at ARC, advised by Prof. Marcelo H. Ang at the National University of Singapore from Jan-June 2022.
 img: assets/img/arc-logo.jpg
 importance: 2
 category: research & industry

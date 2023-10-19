@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 3d concrete printing
-description: Working as a research assistant in the department, responsible for the design, fabrication and control of the robotic mobile manipulator.
+title: robot for 3d concrete printing applications
+description: Worked as a Research Associate in the department of Mechanical Engineeing, responsible for the design, fabrication and control of the robotic mobile manipulator.
 img: assets/img/6dof_thapar.jpg
 redirect:
 importance: 1

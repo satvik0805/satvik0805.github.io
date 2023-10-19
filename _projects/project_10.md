@@ -1,8 +1,8 @@
 ---
 layout: page
-title: CAPSTONE, t2cefs
-description: Working as a research assistant in the department, responsible for the design, fabrication and control of the robotic mobile manipulator.
-img: assets/img/t2cefs.jpg
+title: Autonomous Agricultural Weed Removal Robot
+description: A robot developed as a Final Year Capstone project under the TIET-TAU Centre of Excellence and Food Security.
+img: assets/img/rover.gif
 redirect: https://sites.google.com/view/a2wr2/home?authuser=0
 importance: 1
 category: research & development

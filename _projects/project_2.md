@@ -1,7 +1,7 @@
 ---
 layout: page
-title: omni-directional mobile robot
-description: Worked on the development of autonomous omni-directional mobile robot for consumer-based applications.
+title: autonoumous omni-directional mobile robot
+description: Worked on the development of autonomous omni-directional mobile robot implementing different SLAM techniques and loop-closure capabilities for localization.
 img: assets/img/omni-directional.jpg
 redirect:
 importance: 2
