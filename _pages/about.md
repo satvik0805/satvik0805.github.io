@@ -3,10 +3,10 @@ layout: about
 title: about
 permalink: /
 subtitle: Mechanical Graduate & Roboticist
-image: prof_pic.JPG
+image: prof_pic.jpg
 profile:
   align: right
-  image: prof_pic.JPG
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address:
     50 Nanyang Crescent,
